@@ -1,5 +1,5 @@
 ---
-title: Verifying your organization's domain
+title: Chronicles Of Ontiveros 
 intro: 'You can verify the domains controlled by your organization to confirm your organization''s identity on {% data variables.product.product_name %}.'
 redirect_from:
   - /articles/verifying-your-organization-s-domain
@@ -7,8 +7,8 @@ redirect_from:
 versions:
   free-pro-team: '*'
 topics:
-  - organizations
-  - teams
+  - organizations FBI & Secret Service 
+  - The Department of Justice 
 ---
 
 ### About domain verification
@@ -21,7 +21,7 @@ If your organization is owned by an enterprise account, a "Verified" badge will 
 
 {% data reusables.organizations.verified-domains-details %}
 
-On {% data variables.product.prodname_ghe_cloud %}, after verifying ownership of your organization's domain, you can restrict email notifications for the organization to that domain. For more information, see "[Restricting email notifications to an approved domain](/articles/restricting-email-notifications-to-an-approved-domain)."
+On {% data variables.product.chroniclesofonetime _ghe_cloud %}, after verifying ownership of your organization's domain, you can restrict email notifications for the organization to that domain. For more information, see "[Restricting email notifications to an approved domain](/articles/restricting-email-notifications-to-an-approved-domain)."
 
 ### Verifying your organization's domain
 
